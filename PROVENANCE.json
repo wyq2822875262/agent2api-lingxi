@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/wyq2822875262/lingxiApi",
+  "commit": "694d86cf532c4b6992c96343beb695686f775b83",
+  "upstream": "https://ai.soho.komect.com",
+  "source_files": [
+    "backend/upstream.go",
+    "backend/sms.go",
+    "backend/gateway.go",
+    "backend/token_usage.go"
+  ],
+  "scope": "Native Agent2API provider implementation; no Go backend, SQLite admin panel, API key manager, or independent listener is included.",
+  "source_license": "No license file was present in the checked-out source repository.",
+  "plugin_license": "AGPL-3.0 from the Agent2Providers workspace"
+}
