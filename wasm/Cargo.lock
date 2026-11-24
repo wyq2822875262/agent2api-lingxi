@@ -4,7 +4,7 @@ version = 4
 
 [[package]]
 name = "agent2api-wasm-lingxi"
-version = "0.1.4"
+version = "0.1.5"
 dependencies = [
  "agent2api-wasm-sdk",
  "base64",

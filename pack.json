@@ -1,7 +1,7 @@
 {
   "id": "agent2api-lingxi",
   "name": "移动灵犀",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "protocol": 1,
   "homepage": "https://github.com/wyq2822875262/agent2api-lingxi",
   "providers": [
