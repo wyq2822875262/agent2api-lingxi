@@ -1,7 +1,7 @@
 {
   "id": "agent2api-lingxi",
   "name": "移动灵犀",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "protocol": 1,
   "homepage": "https://github.com/wyq2822875262/agent2api-lingxi",
   "providers": [
@@ -13,19 +13,6 @@
     }
   ],
   "entry": {
-    "x86_64-pc-windows-msvc": "bin/agent2api-lingxi.exe",
-    "aarch64-apple-darwin": "bin/agent2api-lingxi",
-    "x86_64-apple-darwin": "bin/agent2api-lingxi",
-    "x86_64-unknown-linux-gnu": "bin/agent2api-lingxi",
-    "aarch64-unknown-linux-gnu": "bin/agent2api-lingxi"
-  },
-  "ui": [
-    {
-      "id": "lingxi-login",
-      "title": "移动灵犀登录",
-      "entry": "lingxi/index.html",
-      "group": "g-system",
-      "order": 31
-    }
-  ]
+    "wasm32-unknown-unknown": "lingxi.wasm"
+  }
 }
